@@ -1,0 +1,1 @@
+frontendMovie-rater
